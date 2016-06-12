@@ -1,0 +1,30 @@
+html{
+  background: navy;
+}
+
+h1{
+  color: blue;
+}
+
+h2{
+  color: green;
+}
+
+h3{
+  color: purple;
+}
+
+.brown{
+  color: brown;
+}
+
+.box{
+  height: 300px;
+  width: 300px;
+  background-color: brown;
+  color: green;
+}
+
+.happy-man{
+  color: orange;
+}
